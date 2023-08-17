@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1030818814824",
+    "project_id": "notifio-event-todo",
+    "storage_bucket": "notifio-event-todo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1030818814824:android:31e637cd504ccc8f8d54dd",
+        "android_client_info": {
+          "package_name": "abc.fivoza.notifio_event"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1030818814824-f6kfnj223j38aec14r0fj9nai5if1rgi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "abc.fivoza.notifio_event",
+            "certificate_hash": "b7c1c91b9565993fd5761cca8e1625f7104e0bb4"
+          }
+        },
+        {
+          "client_id": "1030818814824-g0tahogdjjpumc7bscaf3856c7b7eq46.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAloKO6e_yx_vUx1_DNSuHIBOPNEQ7yStU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1030818814824-g0tahogdjjpumc7bscaf3856c7b7eq46.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1030818814824-at7ld1qjf05ac689i8hvvihraio8v939.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.notifioEvent"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
